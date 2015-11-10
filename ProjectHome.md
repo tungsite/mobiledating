@@ -1,0 +1,1 @@
+Uses the GPS functionality embedded in most new mobile phones to find the best matching potential date in your proximity
